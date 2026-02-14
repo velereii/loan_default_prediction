@@ -1,2 +1,2 @@
-# loan_default_prediction
+# Loan Default Prediction
 Построение ML-модели для предсказания кредитного дефолта
